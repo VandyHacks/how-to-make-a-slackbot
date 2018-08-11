@@ -1,4 +1,7 @@
 # How to Make a Slackbot
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/VandyHacks/slackbot-tutorial.svg)](https://greenkeeper.io/)
+
 ## MLH Local Hack Day 2017 @ Vanderbilt University
 
 ### Introduction
